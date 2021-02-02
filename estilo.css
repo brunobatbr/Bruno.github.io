@@ -1,0 +1,27 @@
+body{
+     background: rgb(107, 107, 241);
+     font: normal 15pt Arial;
+}
+
+header{
+     color: white;
+     text-align: center;  /*Usada para centralizar o texto no meio do site ou no centro*/
+     color: white;
+}
+
+section{
+      background: white;
+      text-align: center; /*Usada para centralizar o texto no meio do site ou no centro*/
+      border-radius: 10px; /*Bordas arredondadas ou raio da Borda*/
+      padding: 15px; /*Espaçamento dentro de algo nesse caso espaçamento dentro da section*/
+      width: 500px; /*Largura*/
+      margin:auto;
+      box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.212); /*Sombreamento nesse caso o sombreamento da section*/
+}
+
+footer{
+    color: white;
+    text-align: center;  /*Usada para centralizar o texto no meio do site ou no centro*/
+    font-style: italic;  /*Usada para mudar o estilo da fonte de escrita */
+    color: white;
+}
